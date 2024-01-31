@@ -1,5 +1,5 @@
 ---
-description: 'An Introduction to Jiblend: Bridging the Gap to Decentralized Finance (DeFi)'
+description: 'An Introduction to JIBLEND : Bridging the Gap to Decentralized Finance (DeFi)'
 ---
 
 # Introduction
