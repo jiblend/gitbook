@@ -9,3 +9,5 @@ JIBLEND is a decentralized lending platform that redefines lending and borrowing
 Traditional financial systems limit access and centralize control. JIBLEND changes that. We use smart contracts to ensure fairness, reduce costs, and bring DeFi lending to everyone. Our platform is user-friendly, secure, and community-driven.
 
 Join us in reshaping finance, one transaction at a time.
+
+<figure><img src=".gitbook/assets/Cover (1).png" alt=""><figcaption></figcaption></figure>
